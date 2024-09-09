@@ -120,6 +120,8 @@ Vamos a realizar un programa similar al anterior para trabajar con una cola. Una
 
 En realizada nos sirven todas las funciones del ejercicio anterior menos la función `SacarDeLaCola` que es la que tienes que modificar.
 
+<!--
 # Ejercicios resueltos
 
 [Ejercicios de funciones](../../ejercicios/funciones)
+-->
