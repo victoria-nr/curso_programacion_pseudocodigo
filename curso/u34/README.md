@@ -79,6 +79,8 @@ Escribe un programa para jugar al ahorcado.
 * Si introduces todas las letras de la palabra has ganada y te mostrará el número de intentos que has necesitado.
 * Si produces 6 fallos, habrás perdido y se mostrará el dibujo del ahorcado completo.
 
+<!--
 # Ejercicios resueltos
 
 [Más ejercicios](../../ejercicios/mas_ejercicios)
+-->
