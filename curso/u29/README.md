@@ -113,6 +113,8 @@ El programa ira pidiendo los nombres de los equipos de cada partido y el resulta
 
 ¿Qué modificación habría que hacer en las tablas para guardar todos los resultados de todas las jornadas de la temporada?
 
+<!--
 # Ejercicios resueltos
 
 [Ejercicios de arreglos](../../ejercicios/arreglos)
+-->
